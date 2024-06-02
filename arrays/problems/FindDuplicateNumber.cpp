@@ -25,12 +25,27 @@ void func2(int arr[] , int n){                //! using sorting
     }
 }
 
+int func3(int arr[] , int n){
+    int size = n+1;
+    int ans = -1;
+    for(int i=0;i<size;i++){
+        int index = abs(arr[i]);
+        if(arr[index] < 0){  //? matlab visited hai kyuki negative sign hai
+            ans = index;
+        }
+        //? mark as visited 
+        arr[index] = -arr[index];
+    }
+    return ans;
+}
+
 int main(){
-    int arr[] = {1,6,4,6,2,5,3};
+    int arr[] = {1,6,4,6,2,5,3};          //! numbers in range [1 , n]   array size (n+1) 
     int n = 6;
     // func1(arr,n);  // brute force 
     // func2(arr,n);  // better method using sorting 
 
-    func3(arr , n)    // optimal way 
+    int ans = func3(arr , n);    // optimal way      //* visited method approach 
+    cout<<"Duplicate element found: "<<ans;
     return 0;
 }
