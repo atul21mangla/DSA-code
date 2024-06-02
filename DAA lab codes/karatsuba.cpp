@@ -64,12 +64,11 @@ int karatsuba(int a, int b)
 
 int main()
 {
-    cout<<"-------------------------------------------------------------------"<<endl;
-    cout << "karatsuba output for odd case of (98712*2667) : ";
-    cout << karatsuba(98712, 2667);
-    cout<<endl<<"-------------------------------------------------------------------"<<endl;
-    cout << "karatsuba output for even case of (224*129) : ";
-    cout << karatsuba(224, 129);
-    cout<<endl<<"-------------------------------------------------------------------"<<endl;
+    int n1,n2;
+    cout<<"Enter number 1 :"<<endl;
+    cin>>n1;
+    cout<<"Enter number 2 :"<<endl;
+    cin>>n2;
+    cout<<"Product of these two number is :"<<karatsuba(n1,n2);
     return 0;
 }

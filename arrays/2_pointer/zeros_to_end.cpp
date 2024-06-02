@@ -7,7 +7,7 @@ void printarr(int arr[],int n){
     }
 }
 int main(){
-    int arr[]={1,0,2,3,2,0,0,4,5,0};
+    int arr[]={1,0,2,3,2,0,0,4,5,0};  //* maintaining the order of non-zero elements
     int n = sizeof(arr)/sizeof(int);
     int j = -1;
     for(int i=0;i<n;i++){
