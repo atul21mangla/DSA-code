@@ -1,6 +1,15 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+void func1(int arr[] , int n){
+    sort(arr , arr+n);
+    for(int i = 0 ; i < n-1 ; i++){
+        int diff = arr[i+1] - arr[i];
+        if(diff > 1)
+        cout<<"Missing number found : "<<arr[i]+1;
+    }
+}
+
 int findMissingNo(int arr[] , int n){
     //! using visiting method here
     int ans = -1;
@@ -21,8 +30,11 @@ int findMissingNo(int arr[] , int n){
 }
 
 int main(){
-    int arr[] = {1,3,5,3,4};
+    int arr[] = {5,2,3,1,2};
     int n = sizeof(arr)/sizeof(arr[0]);
+
+    // using sorting
+    // func1(arr , n);
     int ans = findMissingNo(arr,n);
     cout<<"The missing number is : "<<ans;
     return 0;
