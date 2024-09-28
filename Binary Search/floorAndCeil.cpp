@@ -22,7 +22,7 @@ int floorArray(int arr[] , int n , int x){    // x ya usse chota element dedo
     return ans;
 }
 
-int ceilArray(int arr[] , int n , int x){       // x ya usse bada element dedo
+int ceilArray(int arr[] , int n , int x){       // x ya usse bada element dedo 
     int start = 0;
     int end = n-1;
     int ans = -1;
