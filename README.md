@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/atul21mangla/DSA-code/tree/master/0074-search-a-2d-matrix) |
 | [2634-minimum-common-value](https://github.com/atul21mangla/DSA-code/tree/master/2634-minimum-common-value) |
 ## Hash Table
 |  |
@@ -16,5 +17,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/atul21mangla/DSA-code/tree/master/0074-search-a-2d-matrix) |
 | [2634-minimum-common-value](https://github.com/atul21mangla/DSA-code/tree/master/2634-minimum-common-value) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/atul21mangla/DSA-code/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
