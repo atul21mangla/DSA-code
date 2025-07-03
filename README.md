@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/atul21mangla/DSA-code/tree/master/0074-search-a-2d-matrix) |
+| [0523-continuous-subarray-sum](https://github.com/atul21mangla/DSA-code/tree/master/0523-continuous-subarray-sum) |
 | [0733-flood-fill](https://github.com/atul21mangla/DSA-code/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/atul21mangla/DSA-code/tree/master/1036-rotting-oranges) |
 | [2634-minimum-common-value](https://github.com/atul21mangla/DSA-code/tree/master/2634-minimum-common-value) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/atul21mangla/DSA-code/tree/master/0523-continuous-subarray-sum) |
 | [2634-minimum-common-value](https://github.com/atul21mangla/DSA-code/tree/master/2634-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -55,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/atul21mangla/DSA-code/tree/master/0210-course-schedule-ii) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/atul21mangla/DSA-code/tree/master/0523-continuous-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/atul21mangla/DSA-code/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
