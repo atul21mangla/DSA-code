@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/atul21mangla/DSA-code/tree/master/0733-flood-fill) |
 | [0966-binary-subarrays-with-sum](https://github.com/atul21mangla/DSA-code/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/atul21mangla/DSA-code/tree/master/1036-rotting-oranges) |
+| [2262-solving-questions-with-brainpower](https://github.com/atul21mangla/DSA-code/tree/master/2262-solving-questions-with-brainpower) |
 | [2634-minimum-common-value](https://github.com/atul21mangla/DSA-code/tree/master/2634-minimum-common-value) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/atul21mangla/DSA-code/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Hash Table
@@ -74,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/atul21mangla/DSA-code/tree/master/0198-house-robber) |
+| [2262-solving-questions-with-brainpower](https://github.com/atul21mangla/DSA-code/tree/master/2262-solving-questions-with-brainpower) |
 <!---LeetCode Topics End-->
