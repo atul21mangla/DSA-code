@@ -48,16 +48,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/atul21mangla/DSA-code/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/atul21mangla/DSA-code/tree/master/0733-flood-fill) |
+| [0871-keys-and-rooms](https://github.com/atul21mangla/DSA-code/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/atul21mangla/DSA-code/tree/master/1036-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/atul21mangla/DSA-code/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/atul21mangla/DSA-code/tree/master/0733-flood-fill) |
+| [0871-keys-and-rooms](https://github.com/atul21mangla/DSA-code/tree/master/0871-keys-and-rooms) |
 ## Graph
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/atul21mangla/DSA-code/tree/master/0210-course-schedule-ii) |
+| [0871-keys-and-rooms](https://github.com/atul21mangla/DSA-code/tree/master/0871-keys-and-rooms) |
 ## Topological Sort
 |  |
 | ------- |
