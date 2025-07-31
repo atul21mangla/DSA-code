@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/atul21mangla/DSA-code/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/atul21mangla/DSA-code/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/atul21mangla/DSA-code/tree/master/0523-continuous-subarray-sum) |
+| [0692-top-k-frequent-words](https://github.com/atul21mangla/DSA-code/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/atul21mangla/DSA-code/tree/master/0733-flood-fill) |
 | [0966-binary-subarrays-with-sum](https://github.com/atul21mangla/DSA-code/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/atul21mangla/DSA-code/tree/master/1036-rotting-oranges) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/atul21mangla/DSA-code/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/atul21mangla/DSA-code/tree/master/0523-continuous-subarray-sum) |
+| [0692-top-k-frequent-words](https://github.com/atul21mangla/DSA-code/tree/master/0692-top-k-frequent-words) |
 | [0966-binary-subarrays-with-sum](https://github.com/atul21mangla/DSA-code/tree/master/0966-binary-subarrays-with-sum) |
 | [2634-minimum-common-value](https://github.com/atul21mangla/DSA-code/tree/master/2634-minimum-common-value) |
 ## Two Pointers
@@ -89,20 +91,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/atul21mangla/DSA-code/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/atul21mangla/DSA-code/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/atul21mangla/DSA-code/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/atul21mangla/DSA-code/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/atul21mangla/DSA-code/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/atul21mangla/DSA-code/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/atul21mangla/DSA-code/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/atul21mangla/DSA-code/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/atul21mangla/DSA-code/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/atul21mangla/DSA-code/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/atul21mangla/DSA-code/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
