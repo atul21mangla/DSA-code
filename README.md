@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/atul21mangla/DSA-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/atul21mangla/DSA-code/tree/master/0074-search-a-2d-matrix) |
 | [0198-house-robber](https://github.com/atul21mangla/DSA-code/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/atul21mangla/DSA-code/tree/master/0347-top-k-frequent-elements) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/atul21mangla/DSA-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/atul21mangla/DSA-code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2634-minimum-common-value](https://github.com/atul21mangla/DSA-code/tree/master/2634-minimum-common-value) |
 ## Binary Search
