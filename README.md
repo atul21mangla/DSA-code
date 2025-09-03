@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/atul21mangla/DSA-code/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/atul21mangla/DSA-code/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/atul21mangla/DSA-code/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/atul21mangla/DSA-code/tree/master/0871-keys-and-rooms) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/atul21mangla/DSA-code/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/atul21mangla/DSA-code/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/atul21mangla/DSA-code/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/atul21mangla/DSA-code/tree/master/0871-keys-and-rooms) |
@@ -129,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/atul21mangla/DSA-code/tree/master/0692-top-k-frequent-words) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/atul21mangla/DSA-code/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/atul21mangla/DSA-code/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
