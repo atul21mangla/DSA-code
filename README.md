@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atul21mangla/DSA-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/atul21mangla/DSA-code/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/atul21mangla/DSA-code/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/atul21mangla/DSA-code/tree/master/0074-search-a-2d-matrix) |
 | [0198-house-robber](https://github.com/atul21mangla/DSA-code/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/atul21mangla/DSA-code/tree/master/0347-top-k-frequent-elements) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/atul21mangla/DSA-code/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/atul21mangla/DSA-code/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/atul21mangla/DSA-code/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/atul21mangla/DSA-code/tree/master/0692-top-k-frequent-words) |
