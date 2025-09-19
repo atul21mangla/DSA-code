@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/atul21mangla/DSA-code/tree/master/0074-search-a-2d-matrix) |
 | [0198-house-robber](https://github.com/atul21mangla/DSA-code/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/atul21mangla/DSA-code/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/atul21mangla/DSA-code/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/atul21mangla/DSA-code/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/atul21mangla/DSA-code/tree/master/0523-continuous-subarray-sum) |
 | [0692-top-k-frequent-words](https://github.com/atul21mangla/DSA-code/tree/master/0692-top-k-frequent-words) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/atul21mangla/DSA-code/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/atul21mangla/DSA-code/tree/master/0198-house-robber) |
+| [0435-non-overlapping-intervals](https://github.com/atul21mangla/DSA-code/tree/master/0435-non-overlapping-intervals) |
 | [2262-solving-questions-with-brainpower](https://github.com/atul21mangla/DSA-code/tree/master/2262-solving-questions-with-brainpower) |
 ## Divide and Conquer
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/atul21mangla/DSA-code/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/atul21mangla/DSA-code/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/atul21mangla/DSA-code/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/atul21mangla/DSA-code/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/atul21mangla/DSA-code/tree/master/0692-top-k-frequent-words) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/atul21mangla/DSA-code/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -157,5 +160,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/atul21mangla/DSA-code/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/atul21mangla/DSA-code/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
