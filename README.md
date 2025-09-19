@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/atul21mangla/DSA-code/tree/master/1036-rotting-oranges) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/atul21mangla/DSA-code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/atul21mangla/DSA-code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2102-find-the-middle-index-in-array](https://github.com/atul21mangla/DSA-code/tree/master/2102-find-the-middle-index-in-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/atul21mangla/DSA-code/tree/master/2262-solving-questions-with-brainpower) |
 | [2634-minimum-common-value](https://github.com/atul21mangla/DSA-code/tree/master/2634-minimum-common-value) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/atul21mangla/DSA-code/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/atul21mangla/DSA-code/tree/master/0523-continuous-subarray-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/atul21mangla/DSA-code/tree/master/0966-binary-subarrays-with-sum) |
+| [2102-find-the-middle-index-in-array](https://github.com/atul21mangla/DSA-code/tree/master/2102-find-the-middle-index-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
