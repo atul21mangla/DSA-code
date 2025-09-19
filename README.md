@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/atul21mangla/DSA-code/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/atul21mangla/DSA-code/tree/master/0074-search-a-2d-matrix) |
 | [0198-house-robber](https://github.com/atul21mangla/DSA-code/tree/master/0198-house-robber) |
+| [0304-range-sum-query-2d-immutable](https://github.com/atul21mangla/DSA-code/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/atul21mangla/DSA-code/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/atul21mangla/DSA-code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/atul21mangla/DSA-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/atul21mangla/DSA-code/tree/master/0074-search-a-2d-matrix) |
+| [0304-range-sum-query-2d-immutable](https://github.com/atul21mangla/DSA-code/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/atul21mangla/DSA-code/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/atul21mangla/DSA-code/tree/master/1036-rotting-oranges) |
 ## Bit Manipulation
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/atul21mangla/DSA-code/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/atul21mangla/DSA-code/tree/master/0523-continuous-subarray-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/atul21mangla/DSA-code/tree/master/0966-binary-subarrays-with-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/atul21mangla/DSA-code/tree/master/2102-find-the-middle-index-in-array) |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/atul21mangla/DSA-code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/atul21mangla/DSA-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/atul21mangla/DSA-code/tree/master/0455-assign-cookies) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/atul21mangla/DSA-code/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
