@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/atul21mangla/DSA-code/tree/master/2262-solving-questions-with-brainpower) |
 | [2634-minimum-common-value](https://github.com/atul21mangla/DSA-code/tree/master/2634-minimum-common-value) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/atul21mangla/DSA-code/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3827-implement-router](https://github.com/atul21mangla/DSA-code/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/atul21mangla/DSA-code/tree/master/0966-binary-subarrays-with-sum) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/atul21mangla/DSA-code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2634-minimum-common-value](https://github.com/atul21mangla/DSA-code/tree/master/2634-minimum-common-value) |
+| [3827-implement-router](https://github.com/atul21mangla/DSA-code/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/atul21mangla/DSA-code/tree/master/0074-search-a-2d-matrix) |
 | [2634-minimum-common-value](https://github.com/atul21mangla/DSA-code/tree/master/2634-minimum-common-value) |
+| [3827-implement-router](https://github.com/atul21mangla/DSA-code/tree/master/3827-implement-router) |
 ## Matrix
 |  |
 | ------- |
@@ -174,4 +177,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/atul21mangla/DSA-code/tree/master/0304-range-sum-query-2d-immutable) |
+| [3827-implement-router](https://github.com/atul21mangla/DSA-code/tree/master/3827-implement-router) |
+## Queue
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/atul21mangla/DSA-code/tree/master/3827-implement-router) |
+## Ordered Set
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/atul21mangla/DSA-code/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
