@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/atul21mangla/DSA-code/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/atul21mangla/DSA-code/tree/master/0733-flood-fill) |
 | [0966-binary-subarrays-with-sum](https://github.com/atul21mangla/DSA-code/tree/master/0966-binary-subarrays-with-sum) |
+| [0985-bag-of-tokens](https://github.com/atul21mangla/DSA-code/tree/master/0985-bag-of-tokens) |
 | [1036-rotting-oranges](https://github.com/atul21mangla/DSA-code/tree/master/1036-rotting-oranges) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/atul21mangla/DSA-code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/atul21mangla/DSA-code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atul21mangla/DSA-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/atul21mangla/DSA-code/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/atul21mangla/DSA-code/tree/master/0455-assign-cookies) |
+| [0985-bag-of-tokens](https://github.com/atul21mangla/DSA-code/tree/master/0985-bag-of-tokens) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/atul21mangla/DSA-code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2634-minimum-common-value](https://github.com/atul21mangla/DSA-code/tree/master/2634-minimum-common-value) |
 ## Binary Search
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/atul21mangla/DSA-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/atul21mangla/DSA-code/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/atul21mangla/DSA-code/tree/master/0692-top-k-frequent-words) |
+| [0985-bag-of-tokens](https://github.com/atul21mangla/DSA-code/tree/master/0985-bag-of-tokens) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/atul21mangla/DSA-code/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/atul21mangla/DSA-code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/atul21mangla/DSA-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/atul21mangla/DSA-code/tree/master/0455-assign-cookies) |
+| [0985-bag-of-tokens](https://github.com/atul21mangla/DSA-code/tree/master/0985-bag-of-tokens) |
 ## Design
 |  |
 | ------- |
