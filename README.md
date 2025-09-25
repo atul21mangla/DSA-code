@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/atul21mangla/DSA-code/tree/master/0966-binary-subarrays-with-sum) |
 | [0985-bag-of-tokens](https://github.com/atul21mangla/DSA-code/tree/master/0985-bag-of-tokens) |
 | [1036-rotting-oranges](https://github.com/atul21mangla/DSA-code/tree/master/1036-rotting-oranges) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/atul21mangla/DSA-code/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/atul21mangla/DSA-code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/atul21mangla/DSA-code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2102-find-the-middle-index-in-array](https://github.com/atul21mangla/DSA-code/tree/master/2102-find-the-middle-index-in-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/atul21mangla/DSA-code/tree/master/0966-binary-subarrays-with-sum) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/atul21mangla/DSA-code/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/atul21mangla/DSA-code/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Breadth-First Search
 |  |
