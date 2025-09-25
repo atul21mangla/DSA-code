@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atul21mangla/DSA-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/atul21mangla/DSA-code/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/atul21mangla/DSA-code/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/atul21mangla/DSA-code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/atul21mangla/DSA-code/tree/master/0057-insert-interval) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atul21mangla/DSA-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/atul21mangla/DSA-code/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/atul21mangla/DSA-code/tree/master/0455-assign-cookies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/atul21mangla/DSA-code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2634-minimum-common-value](https://github.com/atul21mangla/DSA-code/tree/master/2634-minimum-common-value) |
